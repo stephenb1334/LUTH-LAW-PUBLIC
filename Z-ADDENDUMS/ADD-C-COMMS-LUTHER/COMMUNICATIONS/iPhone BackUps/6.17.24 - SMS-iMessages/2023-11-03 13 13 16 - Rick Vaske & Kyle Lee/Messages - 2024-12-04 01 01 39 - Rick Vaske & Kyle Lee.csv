@@ -1,0 +1,4 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
+Rick Vaske & Kyle Lee,2023-11-03 11:43:43,,,,SMS,Outgoing,,,Sent,,,"Rick, Kyle is working the contract for me on my drive down. I didn't specify inverters. What kind of Inverters would you recommend? Enphase IQ8+?",,
+Rick Vaske & Kyle Lee,2023-11-03 12:22:56,,,,SMS,Outgoing,,,Sent,,,,Screenshot 2023-11-01 at 9.18.25 PM.png,Image
+Rick Vaske & Kyle Lee,2023-11-03 13:13:16,,2023-11-03 13:37:44,,SMS,Incoming,+12392001081,Rick Vaske,Read,,,"Yes, IQ8 ",,

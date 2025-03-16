@@ -1,0 +1,17 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
++18329040082,2022-12-16 12:59:18,2022-12-16 12:59:19,,,iMessage,Outgoing,,,Delivered,,,"Hi Erica, this is Steve from PubTrawlr. I may have a typo in your email. I have:
+
+erica.camtu@uth.tmc.edu
+
+Is that incorrect ?",,
++18329040082,2022-12-16 12:59:59,,2022-12-16 13:00:02,,iMessage,Incoming,+18329040082,,Read,,,Erica.cantu@uth.tmc.edu,,
++18329040082,2022-12-16 13:00:12,2022-12-16 13:00:12,,,iMessage,Outgoing,,,Delivered,,,Thank you!,,
++18329040082,2022-12-16 13:01:52,2022-12-16 13:01:52,,,iMessage,Outgoing,,,Delivered,,,Just resent ,,
++18329040082,2022-12-16 13:02:03,,2022-12-16 13:02:04,,iMessage,Incoming,+18329040082,,Read,,,Liked “Just resent ”,,
++18329040082,2022-12-21 08:30:16,,2022-12-21 08:30:21,,iMessage,Incoming,+18329040082,,Read,,,"Hi Steve 
+I have to apologize.
+
+I sent the invite for the correct time, but put the incorrect time in the email. I CAN meet today at 9am CST, but have a conflicting meeting I can’t miss at 10am CST.  If there is anyway we can meet at 9am CST I’d appreciate that. If not, let’s plan for the new year. So sorry for this mix up!",,
++18329040082,2022-12-21 08:34:16,2022-12-21 08:34:16,,,iMessage,Outgoing,,,Delivered,,,"Good morning, I’m asking Jon now. Will confirm shortly ",,
++18329040082,2022-12-21 08:48:23,2022-12-21 08:48:23,,,iMessage,Outgoing,,,Delivered,,,Jon has a board meeting at 9am CST and is then off for holidays and recommended we push. What is a day post new year that works best for you? I’ll find availability,,
++18329040082,2022-12-21 08:50:11,,2022-12-21 09:24:26,,iMessage,Incoming,+18329040082,,Read,,,Ok. That will work. Let me get back to you when I get to my desk. ,,

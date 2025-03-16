@@ -1,0 +1,5 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
++16092206025,2023-05-17 11:08:12,2023-05-17 11:08:13,,,iMessage,Outgoing,,,Delivered,,,Steve & Melissa,,
++16092206025,2023-05-17 11:11:05,2023-05-17 11:11:05,,,iMessage,Outgoing,,,Delivered,,,And Lucy ,,
++16092206025,2023-05-17 11:11:43,,2023-05-17 13:10:55,,iMessage,Incoming,+16092206025,,Read,,,Hi! ,,
++16092206025,2023-05-17 11:12:03,,2023-05-17 13:10:55,,iMessage,Incoming,+16092206025,,Read,,,www.happytailsofphilly.com,,

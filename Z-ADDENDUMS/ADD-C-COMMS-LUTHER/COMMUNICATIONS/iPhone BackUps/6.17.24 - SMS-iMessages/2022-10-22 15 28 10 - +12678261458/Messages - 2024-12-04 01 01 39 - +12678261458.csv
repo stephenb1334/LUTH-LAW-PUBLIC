@@ -1,0 +1,22 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
++12678261458,2022-10-16 13:35:55,2022-10-16 13:35:56,,,iMessage,Outgoing,,,Delivered,,,"Hi Bruce, this is Steve. SleepNumber. Providing you my cell number so we can coordinate meeting up. ",,
++12678261458,2022-10-16 13:36:12,2022-10-16 13:36:12,,,iMessage,Outgoing,,,Delivered,,,"The address is:
+
+3 Hedgerow Lane
+Wayne, Pa",,
++12678261458,2022-10-16 14:34:12,,2022-10-16 14:34:43,,iMessage,Incoming,+12678261458,,Read,,,OK thank you Steve,,
++12678261458,2022-10-17 13:09:05,,2022-10-17 13:15:49,,iMessage,Incoming,+12678261458,,Read,,,"Steve, I got a guy to help me load the bed onto the trailer. does Friday around noon work for you? Bruce",,
++12678261458,2022-10-17 13:15:58,2022-10-17 13:15:59,,,iMessage,Outgoing,,,Delivered,,,Yes let’s meet then ,,
++12678261458,2022-10-17 13:23:03,,2022-10-17 13:23:09,,iMessage,Incoming,+12678261458,,Read,,,OK then. Pete and I will see you at 3 Hedgerow Ln. at 12 noon on Friday the 21st. Bruce,,
++12678261458,2022-10-17 13:23:26,2022-10-17 13:23:27,,,iMessage,Outgoing,,,Delivered,,,Great. I’ll be there. Let’s text Thursday evening to confirm,,
++12678261458,2022-10-17 13:23:51,,2022-10-17 13:23:51,,iMessage,Incoming,+12678261458,,Read,,,Sure,,
++12678261458,2022-10-17 18:56:27,,2022-10-17 20:19:14,,iMessage,Incoming,+12678261458,,Read,,,"Steve,  after speaking with my wife I was wondering if I could meet you at the house in Wayne at 10:30 am rather than 12 noon. does that still work for you?  Bruce",,
++12678261458,2022-10-17 20:19:49,2022-10-17 20:19:51,,,iMessage,Outgoing,,,Delivered,,,Yes that will work. See you then ,,
++12678261458,2022-10-18 05:59:02,,2022-10-18 07:36:16,,iMessage,Incoming,+12678261458,,Read,,,Great. Thanks,,
++12678261458,2022-10-20 18:49:53,,2022-10-20 18:50:08,,iMessage,Incoming,+12678261458,,Read,,,"Steve, I’m planning to be at the Wayne location between 1030 and 11. Is that still good for you? Bruce ",,
++12678261458,2022-10-20 18:50:12,2022-10-20 18:50:13,,,iMessage,Outgoing,,,Delivered,,,Yes,,
++12678261458,2022-10-20 18:50:32,2022-10-20 18:50:32,,,iMessage,Outgoing,,,Delivered,,,I’ll get there an hour early and try and deflate the mattress ,,
++12678261458,2022-10-20 18:50:37,,2022-10-20 18:50:37,,iMessage,Incoming,+12678261458,,Read,,,Great. see you tomorrow,,
++12678261458,2022-10-22 15:24:18,,2022-10-22 15:26:47,,iMessage,Incoming,+12678261458,,Read,,,,68815942808__5F48FB38-8990-40FF-B692-7CD92AC76F89.HEIC,Image
++12678261458,2022-10-22 15:24:18,,2022-10-22 15:26:47,,iMessage,Incoming,+12678261458,,Read,,,The bed works as advertised thank you so much Steve,,
++12678261458,2022-10-22 15:28:10,2022-10-22 15:28:12,,,iMessage,Outgoing,,,Delivered,,,Awesome! I’m very happy to hear this. Enjoy. ,,

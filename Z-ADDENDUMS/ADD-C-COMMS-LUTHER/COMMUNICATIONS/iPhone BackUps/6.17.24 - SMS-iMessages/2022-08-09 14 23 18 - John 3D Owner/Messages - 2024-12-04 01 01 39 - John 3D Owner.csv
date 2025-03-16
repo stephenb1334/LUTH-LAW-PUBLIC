@@ -1,0 +1,33 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
+John 3D Owner,2022-07-28 18:19:49,,,,SMS,Outgoing,,,Sent,,,"Hi John, the plumber is scheduled to arrive tomorrow between 11am-1pm ",,
+John 3D Owner,2022-07-28 18:20:05,,2022-07-28 18:20:09,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,Ok. ,,
+John 3D Owner,2022-07-29 11:03:38,,2022-07-29 11:04:39,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,"Plumber doesnt appear to be here, but I can tell you where its dripping in...  under the 4C side bathroom, assuming its similar to mine, just to the right side of the vanity.",,
+John 3D Owner,2022-07-29 11:04:20,,2022-07-29 11:04:39,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,Of course the water may be travelling from elsewhere. ,,
+John 3D Owner,2022-07-29 11:04:51,,,,SMS,Outgoing,,,Sent,,,Ok they said 11-1pm window to show up. ,,
+John 3D Owner,2022-07-29 11:05:02,,2022-07-29 11:05:02,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,The plumber will most likely need to access the crawlspace under the bathroom floor if you're not seeing water in your bathroom.,,
+John 3D Owner,2022-07-29 11:05:05,,,,SMS,Outgoing,,,Sent,,,I will let you know. They haven't called me yet,,
+John 3D Owner,2022-07-29 11:05:28,,2022-07-29 11:05:28,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,"I have to head out shortly, wanted to share my thoughts if they're at all helpful.",,
+John 3D Owner,2022-07-29 13:06:41,,,,SMS,Outgoing,,,Sent,,,I just called the plumber who has failed to arrive on time and they have given me a new window of time for 1:45-2:30pm.,,
+John 3D Owner,2022-07-29 13:08:11,,2022-07-29 13:08:56,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,Ok no worries. Thanks. ,,
+John 3D Owner,2022-07-29 13:08:48,,2022-07-29 13:08:56,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,I'm not going to be around so just let me know when things are resolved. ,,
+John 3D Owner,2022-07-29 13:09:06,,,,SMS,Outgoing,,,Sent,,,Ok I will keep in touch,,
+John 3D Owner,2022-07-29 17:07:18,,2022-07-29 17:45:21,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,"Hello Steve, hope the plumber was able to get things resolved.  I just heard from my insurance and they're requesting some info: a plumber's report, your insurance info and preferred contact info. They didnt say there's a huge rush on these, so when you get a chance. If you'd rather send to my claims specialist directly (State Farm) I'll pass along his info.",,
+John 3D Owner,2022-07-29 17:10:08,,2022-07-29 17:45:21,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,My email is jon@eastfallsglass.com ,,
+John 3D Owner,2022-07-31 17:15:20,,,,SMS,Outgoing,,,Sent,,,The plumber is scheduled to return on Tuesday from 8-9am I will have more info then,,
+John 3D Owner,2022-07-31 17:33:46,,2022-07-31 17:55:51,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,"Ok. I'm planning to stop in at some point tomorrow, probably early afternoon, will let you know if there's still water coming in. ",,
+John 3D Owner,2022-08-01 15:13:25,,2022-08-01 16:11:58,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,"I'm at my unit now, I'm not seeing any water dripping.",,
+John 3D Owner,2022-08-01 16:12:17,,,,SMS,Outgoing,,,Sent,,,Ok that's reassuring. Thanks. I'll report back after plumber appt tomorrow ,,
+John 3D Owner,2022-08-03 09:03:10,,,,SMS,Outgoing,,,Sent,,,"Best Choice Plumbing completely no showed yesterday morning for our scheduled appointment to bring them back in and address the plumbing issue. 
+
+We opted to not continue with them. Bad experience start to finish. 
+
+I left a voice message for Steven, the building maintenance person. I was advised to go through him and to get a plumber recommendation from him. I'm awaiting a call back from him. Trying to move quick ",,
+John 3D Owner,2022-08-03 15:51:44,,,,SMS,Outgoing,,,Sent,,,Our new plumber came today. The water gets shut off most likely this upcoming Monday. He said he can provide work report/invoice for any insurance purpose,,
+John 3D Owner,2022-08-03 15:53:06,,2022-08-03 15:53:10,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,Ok.  The dryout folks are asking about taking back the dehumidifier on friday. Is there any concern about a leak starting up again or we should be good now that it's being looked at?,,
+John 3D Owner,2022-08-03 15:54:12,,,,SMS,Outgoing,,,Sent,,,He confirmed it's okay and even said we could run water in our master bathroom between now and then but we are opting to not use that bathroom at all until completely fixed so we will not be turning water on above your unit until that time ,,
+John 3D Owner,2022-08-03 15:56:04,,2022-08-03 15:56:47,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,"Sounds good, thanks for getting back. ",,
+John 3D Owner,2022-08-03 15:57:40,,,,SMS,Outgoing,,,Sent,,,"Correction: the building association just called. They can't do Monday and asked us to schedule the plumber for this Friday, not Monday. Our plumber confirmed. So water shut off and repairs taking place this Friday, NOT Monday ",,
+John 3D Owner,2022-08-03 15:58:07,,2022-08-03 15:58:37,,SMS,Incoming,+12154323635,John 3D Owner,Read,,,Great!,,
+John 3D Owner,2022-08-08 12:08:48,,,,SMS,Outgoing,,,Sent,,,The plumber is sending me the invoice and plumber report tonight fyi ,,
+John 3D Owner,2022-08-09 14:22:24,,,,SMS,Outgoing,,,,,,,shplumbing_invoice_273.pdf,Attachment
+John 3D Owner,2022-08-09 14:23:18,,,,SMS,Outgoing,,,Sent,,,Just emailed you the plumbing invoice just now,,

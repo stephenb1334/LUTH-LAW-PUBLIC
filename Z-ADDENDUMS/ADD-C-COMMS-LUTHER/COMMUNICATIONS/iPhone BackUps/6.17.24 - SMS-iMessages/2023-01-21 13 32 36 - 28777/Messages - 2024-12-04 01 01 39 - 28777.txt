@@ -1,0 +1,30 @@
+----------------------------------------------------
+28777
+2023-01-20 20:19:48 from 28777 - Read
+
+USPS EI170515779US, Scheduled Delivery by Saturday, January 21, 2023 by 6:00pm Reply STOP to cancel
+
+----------------------------------------------------
+28777
+2023-01-20 20:19:51 from 28777 - Read
+
+Your request for USPS Tracking updates is confirmed for EI170515779US
+
+----------------------------------------------------
+28777
+2023-01-20 20:19:53 from 28777 - Read
+
+USPS EI170515779US, Departed USPS Facility 01/20/2023 7:48pm BROCKTON MA DISTRIBUTION CENTER Reply STOP to cancel
+
+----------------------------------------------------
+28777
+2023-01-21 10:47:23 from 28777 - Read
+
+USPS EI170515779US. Latest status Out for Delivery 01/21/2023 10:35am PHILADELPHIA PA 19106 Reply STOP to cancel
+
+----------------------------------------------------
+28777
+2023-01-21 13:32:36 from 28777 - Read
+
+USPS EI170515779US, Delivered, In/At Mailbox 01/21/2023 1:32pm PHILADELPHIA PA 19106 Reply STOP to cancel
+

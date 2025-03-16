@@ -1,0 +1,128 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
+90235,2022-08-11 08:08:32,,2022-08-11 09:04:59,,SMS,Incoming,90235,,Read,,,"Welcome to Penn Medicine. Reply STOP to stop text msgs from Penn Medicine. Msg&Data rates may apply. Hello, this is Penn Medicine reaching out to you regarding COVID-19.",,
+90235,2022-08-11 08:08:39,,2022-08-11 09:04:59,,SMS,Incoming,90235,,Read,,,"Please read carefully as our COVID-19 screening survey has recently changed. There are four questions; any time you can press 0 to repeat the current question or 9 to go back to the previous question and change your answer. If your appointment has been cancelled or rescheduled, please disregard this message. Although masking requirements have been relaxed in the region, Penn Medicine still requires everyone on campus to wear a mask.",,
+90235,2022-08-11 08:08:41,,2022-08-11 09:04:59,,SMS,Incoming,90235,,Read,,,Please confirm that you are Stephen Boerner or a caregiver. Please reply 1 for yes or reply 2 if we have the wrong number.,,
+90235,2022-08-11 09:05:08,,,,SMS,Outgoing,,,Sent,,,1,,
+90235,2022-08-11 09:05:12,,2022-08-11 09:05:12,,SMS,Incoming,90235,,Read,,,"In the last 7 days, have you been in contact with someone in your house who has been newly diagnosed with COVID-19? Reply 1 if, YES, you have been in contact. Reply 2 if NO, you have not been in contact",,
+90235,2022-08-11 09:05:21,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-08-11 09:05:29,,2022-08-11 09:05:29,,SMS,Incoming,90235,,Read,,,"It's great to hear that you HAVE NOT been in contact with someone newly diagnosed.
+ 
+- Are you currently experiencing any of the following NEW symptoms: loss of taste/smell, difficulty breathing, cough, fatigue, vomiting or diarrhea, loss of appetite, fever above 100F or feeling feverish? 
+ 
+Reply 1 if, YES, you are experiencing new symptoms. Reply 2, if, NO you are not experiencing new symptoms.",,
+90235,2022-08-11 09:05:37,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-08-11 09:05:43,,2022-08-11 09:05:43,,SMS,Incoming,90235,,Read,,,"It is great to hear you are not experiencing NEW symptoms. Have you tested positive for COVID-19 in the past 10 days? Reply 1 if, YES, you have tested positive for COVID-19. Reply 2, if NO, you have not tested positive for COVID-19.",,
+90235,2022-08-11 09:06:02,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-08-11 09:06:10,,2022-08-11 09:06:10,,SMS,Incoming,90235,,Read,,,"It is great to hear you have not tested positive for COVID-19. 
+ 
+- You may bring a visitor to support you if needed and permitted by the location. Do you intend to bring someone with you? Reply 1 if Yes or Reply 2 if No",,
+90235,2022-08-11 09:06:15,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-08-11 09:06:19,,2022-08-11 09:06:19,,SMS,Incoming,90235,,Read,,,Thank you for letting us know. We would like to provide you with a GreenPass to enter the building when you arrive on campus. The next text is the URL link to your GreenPass,,
+90235,2022-08-11 09:06:27,,2022-08-11 09:06:27,,SMS,Incoming,90235,,Read,,,"https://greenpass.pennmedicine.org/AOyTQmwlEjRs0tMdAThHCAEAAACo6EbiWDHaoy_L7619d8TDi-oYzJFmrRAIS_PyozkpUjEwk64hNkjBCyDFTdO5w-Vjjz6rus1eRlFj0vNEBh3q
+ 
+-Thank You for completing Penn Medicine’s Symptom and Contact Screening. If you have any questions about your medical condition, please call your primary or specialty care physician office. If you are having a medical emergency, please call 911.",,
+90235,2022-09-05 08:11:51,,2022-09-05 08:43:25,,SMS,Incoming,90235,,Read,,,"Welcome to Penn Medicine. Reply STOP to stop text msgs from Penn Medicine. Msg&Data rates may apply. Hello, this is Penn Medicine reaching out to you regarding COVID-19.",,
+90235,2022-09-05 08:11:59,,2022-09-05 08:43:25,,SMS,Incoming,90235,,Read,,,"Please read carefully as our COVID-19 screening survey has recently changed. There are four questions; any time you can press 0 to repeat the current question or 9 to go back to the previous question and change your answer. If your appointment has been cancelled or rescheduled, please disregard this message. Although masking requirements have been relaxed in the region, Penn Medicine still requires everyone on campus to wear a mask.",,
+90235,2022-09-05 08:12:01,,2022-09-05 08:43:25,,SMS,Incoming,90235,,Read,,,Please confirm that you are Stephen Boerner or a caregiver. Please reply 1 for yes or reply 2 if we have the wrong number.,,
+90235,2022-09-05 08:43:56,,,,SMS,Outgoing,,,Sent,,,1,,
+90235,2022-09-05 08:44:01,,2022-09-05 08:44:01,,SMS,Incoming,90235,,Read,,,"In the last 7 days, have you been in contact with someone in your house who has been newly diagnosed with COVID-19? Reply 1 if, YES, you have been in contact. Reply 2 if NO, you have not been in contact",,
+90235,2022-09-05 08:44:14,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-09-05 08:44:20,,2022-09-05 08:44:20,,SMS,Incoming,90235,,Read,,,"It's great to hear that you HAVE NOT been in contact with someone newly diagnosed.
+ 
+- Are you currently experiencing any of the following NEW symptoms: loss of taste/smell, difficulty breathing, cough, fatigue, vomiting or diarrhea, loss of appetite, fever above 100F or feeling feverish? 
+ 
+Reply 1 if, YES, you are experiencing new symptoms. Reply 2, if, NO you are not experiencing new symptoms.",,
+90235,2022-09-05 08:44:29,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-09-05 08:44:33,,2022-09-05 08:44:33,,SMS,Incoming,90235,,Read,,,"It is great to hear you are not experiencing NEW symptoms. Have you tested positive for COVID-19 in the past 10 days? Reply 1 if, YES, you have tested positive for COVID-19. Reply 2, if NO, you have not tested positive for COVID-19.",,
+90235,2022-09-05 08:44:40,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-09-05 08:44:44,,2022-09-05 08:44:44,,SMS,Incoming,90235,,Read,,,"It is great to hear you have not tested positive for COVID-19. 
+ 
+- You may bring a visitor to support you if needed and permitted by the location. Do you intend to bring someone with you? Reply 1 if Yes or Reply 2 if No",,
+90235,2022-10-03 08:10:44,,2022-10-03 08:15:16,,SMS,Incoming,90235,,Read,,,"Welcome to Penn Medicine. Reply STOP to stop text msgs from Penn Medicine. Msg&Data rates may apply. Hello, this is Penn Medicine reaching out to you regarding COVID-19.",,
+90235,2022-10-03 08:10:51,,2022-10-03 08:15:16,,SMS,Incoming,90235,,Read,,,"Please read carefully as our COVID-19 screening survey has recently changed. There are four questions; any time you can press 0 to repeat the current question or 9 to go back to the previous question and change your answer. If your appointment has been cancelled or rescheduled, please disregard this message. Although masking requirements have been relaxed in the region, Penn Medicine still requires everyone on campus to wear a mask.",,
+90235,2022-10-03 08:10:53,,2022-10-03 08:15:16,,SMS,Incoming,90235,,Read,,,Please confirm that you are Stephen Boerner or a caregiver. Please reply 1 for yes or reply 2 if we have the wrong number.,,
+90235,2022-10-03 08:15:22,,,,SMS,Outgoing,,,Sent,,,1,,
+90235,2022-10-03 08:15:29,,2022-10-03 08:15:29,,SMS,Incoming,90235,,Read,,,"In the last 7 days, have you been in contact with someone in your house who has been newly diagnosed with COVID-19? Reply 1 if, YES, you have been in contact. Reply 2 if NO, you have not been in contact",,
+90235,2022-10-03 08:15:37,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-03 08:15:45,,2022-10-03 08:15:45,,SMS,Incoming,90235,,Read,,,"It's great to hear that you HAVE NOT been in contact with someone newly diagnosed.
+ 
+- Are you currently experiencing any of the following NEW symptoms: loss of taste/smell, difficulty breathing, cough, fatigue, vomiting or diarrhea, loss of appetite, fever above 100F or feeling feverish? 
+ 
+Reply 1 if, YES, you are experiencing new symptoms. Reply 2, if, NO you are not experiencing new symptoms.",,
+90235,2022-10-03 08:15:51,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-03 08:15:58,,2022-10-03 08:15:58,,SMS,Incoming,90235,,Read,,,"It is great to hear you are not experiencing NEW symptoms. Have you tested positive for COVID-19 in the past 10 days? Reply 1 if, YES, you have tested positive for COVID-19. Reply 2, if NO, you have not tested positive for COVID-19.",,
+90235,2022-10-03 08:16:12,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-03 08:16:19,,2022-10-03 08:16:19,,SMS,Incoming,90235,,Read,,,"It is great to hear you have not tested positive for COVID-19. 
+ 
+- You may bring a visitor to support you if needed and permitted by the location. Do you intend to bring someone with you? Reply 1 if Yes or Reply 2 if No",,
+90235,2022-10-03 08:16:37,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-03 08:16:42,,2022-10-03 08:16:55,,SMS,Incoming,90235,,Read,,,Thank you for letting us know. We would like to provide you with a GreenPass to enter the building when you arrive on campus. The next text is the URL link to your GreenPass,,
+90235,2022-10-03 08:16:51,,2022-10-03 08:16:55,,SMS,Incoming,90235,,Read,,,"https://greenpass.pennmedicine.org/AOyTQmwlEjRs0tMdAThHCAEAAAAagnQwnNJ_ZeR8F8oF6urH3vKLWvkzdabUkRoge0kiVu-UB_uGa8gyxr7TIrKorcs6jA3SkqVHZUz9SB2ADbT4
+ 
+-Thank You for completing Penn Medicine’s Symptom and Contact Screening. If you have any questions about your medical condition, please call your primary or specialty care physician office. If you are having a medical emergency, please call 911.",,
+90235,2022-10-17 08:12:53,,2022-10-17 08:23:05,,SMS,Incoming,90235,,Read,,,"Welcome to Penn Medicine. Reply STOP to stop text msgs from Penn Medicine. Msg&Data rates may apply. Hello, this is Penn Medicine reaching out to you regarding COVID-19.",,
+90235,2022-10-17 08:13:00,,2022-10-17 08:23:05,,SMS,Incoming,90235,,Read,,,"Please read carefully as our COVID-19 screening survey has recently changed. There are four questions; any time you can press 0 to repeat the current question or 9 to go back to the previous question and change your answer. If your appointment has been cancelled or rescheduled, please disregard this message. Although masking requirements have been relaxed in the region, Penn Medicine still requires everyone on campus to wear a mask.",,
+90235,2022-10-17 08:13:02,,2022-10-17 08:23:05,,SMS,Incoming,90235,,Read,,,Please confirm that you are Stephen Boerner or a caregiver. Please reply 1 for yes or reply 2 if we have the wrong number.,,
+90235,2022-10-17 08:23:14,,,,SMS,Outgoing,,,Sent,,,1,,
+90235,2022-10-17 08:23:19,,2022-10-17 08:23:20,,SMS,Incoming,90235,,Read,,,"In the last 7 days, have you been in contact with someone in your house who has been newly diagnosed with COVID-19? Reply 1 if, YES, you have been in contact. Reply 2 if NO, you have not been in contact",,
+90235,2022-10-17 08:23:26,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-17 08:23:32,,2022-10-17 08:23:32,,SMS,Incoming,90235,,Read,,,"It's great to hear that you HAVE NOT been in contact with someone newly diagnosed.
+ 
+- Are you currently experiencing any of the following NEW symptoms: loss of taste/smell, difficulty breathing, cough, fatigue, vomiting or diarrhea, loss of appetite, fever above 100F or feeling feverish? 
+ 
+Reply 1 if, YES, you are experiencing new symptoms. Reply 2, if, NO you are not experiencing new symptoms.",,
+90235,2022-10-17 08:23:37,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-17 08:23:44,,2022-10-17 08:23:44,,SMS,Incoming,90235,,Read,,,"It is great to hear you are not experiencing NEW symptoms. Have you tested positive for COVID-19 in the past 10 days? Reply 1 if, YES, you have tested positive for COVID-19. Reply 2, if NO, you have not tested positive for COVID-19.",,
+90235,2022-10-17 08:23:52,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-17 08:23:57,,2022-10-17 08:23:57,,SMS,Incoming,90235,,Read,,,"It is great to hear you have not tested positive for COVID-19. 
+ 
+- You may bring a visitor to support you if needed and permitted by the location. Do you intend to bring someone with you? Reply 1 if Yes or Reply 2 if No",,
+90235,2022-10-17 08:24:10,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-17 08:24:14,,2022-10-17 08:24:14,,SMS,Incoming,90235,,Read,,,Thank you for letting us know. We would like to provide you with a GreenPass to enter the building when you arrive on campus. The next text is the URL link to your GreenPass,,
+90235,2022-10-17 08:24:24,,2022-10-17 08:24:24,,SMS,Incoming,90235,,Read,,,"https://greenpass.pennmedicine.org/AOyTQmwlEjRs0tMdAThHCAEAAADztRK-HPYPPUJJ_hp_Cf42j2rm0_JEpgGOmxxbn_3CiiY-euuU_LwpCEWX7MxR1hP70i3js3f51lJDTDKgW0Ed
+ 
+-Thank You for completing Penn Medicine’s Symptom and Contact Screening. If you have any questions about your medical condition, please call your primary or specialty care physician office. If you are having a medical emergency, please call 911.",,
+90235,2022-10-23 08:14:18,,2022-10-23 08:49:16,,SMS,Incoming,90235,,Read,,,"Welcome to Penn Medicine. Reply STOP to stop text msgs from Penn Medicine. Msg&Data rates may apply. Hello, this is Penn Medicine reaching out to you regarding COVID-19.",,
+90235,2022-10-23 08:14:25,,2022-10-23 08:49:16,,SMS,Incoming,90235,,Read,,,"Please read carefully as our COVID-19 screening survey has recently changed. There are four questions; any time you can press 0 to repeat the current question or 9 to go back to the previous question and change your answer. If your appointment has been cancelled or rescheduled, please disregard this message. Although masking requirements have been relaxed in the region, Penn Medicine still requires everyone on campus to wear a mask.",,
+90235,2022-10-23 08:14:27,,2022-10-23 08:49:16,,SMS,Incoming,90235,,Read,,,Please confirm that you are Stephen Boerner or a caregiver. Please reply 1 for yes or reply 2 if we have the wrong number.,,
+90235,2022-10-23 08:49:21,,,,SMS,Outgoing,,,Sent,,,1,,
+90235,2022-10-23 08:49:24,,2022-10-23 08:49:24,,SMS,Incoming,90235,,Read,,,"In the last 7 days, have you been in contact with someone in your house who has been newly diagnosed with COVID-19? Reply 1 if, YES, you have been in contact. Reply 2 if NO, you have not been in contact",,
+90235,2022-10-23 08:49:35,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-23 08:49:40,,2022-10-23 08:49:40,,SMS,Incoming,90235,,Read,,,"It's great to hear that you HAVE NOT been in contact with someone newly diagnosed.
+ 
+- Are you currently experiencing any of the following NEW symptoms: loss of taste/smell, difficulty breathing, cough, fatigue, vomiting or diarrhea, loss of appetite, fever above 100F or feeling feverish? 
+ 
+Reply 1 if, YES, you are experiencing new symptoms. Reply 2, if, NO you are not experiencing new symptoms.",,
+90235,2022-10-23 08:49:43,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-23 08:49:46,,2022-10-23 08:49:46,,SMS,Incoming,90235,,Read,,,"It is great to hear you are not experiencing NEW symptoms. Have you tested positive for COVID-19 in the past 10 days? Reply 1 if, YES, you have tested positive for COVID-19. Reply 2, if NO, you have not tested positive for COVID-19.",,
+90235,2022-10-23 08:49:49,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-23 08:49:52,,2022-10-23 08:49:52,,SMS,Incoming,90235,,Read,,,"It is great to hear you have not tested positive for COVID-19. 
+ 
+- You may bring a visitor to support you if needed and permitted by the location. Do you intend to bring someone with you? Reply 1 if Yes or Reply 2 if No",,
+90235,2022-10-23 08:49:55,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-10-23 08:49:58,,2022-10-23 08:49:58,,SMS,Incoming,90235,,Read,,,Thank you for letting us know. We would like to provide you with a GreenPass to enter the building when you arrive on campus. The next text is the URL link to your GreenPass,,
+90235,2022-10-23 08:50:11,,2022-10-23 08:50:13,,SMS,Incoming,90235,,Read,,,"https://greenpass.pennmedicine.org/AOyTQmwlEjRs0tMdAThHCAEAAADqbZQKkuSCKNqk3o_D0XqfEvULMza196ZnVfGVb1HsMwofQKWk5Kz5XTpxTyKoC9DqMyZOu-s2WSMzo3FImbJb
+ 
+-Thank You for completing Penn Medicine’s Symptom and Contact Screening. If you have any questions about your medical condition, please call your primary or specialty care physician office. If you are having a medical emergency, please call 911.",,
+90235,2022-12-05 08:14:43,,2022-12-05 08:41:47,,SMS,Incoming,90235,,Read,,,"Welcome to Penn Medicine. Reply STOP to stop text msgs from Penn Medicine. Msg&Data rates may apply. Hello, this is Penn Medicine reaching out to you regarding COVID-19.",,
+90235,2022-12-05 08:14:53,,2022-12-05 08:41:47,,SMS,Incoming,90235,,Read,,,"Please read carefully as our COVID-19 screening survey has recently changed. There are four questions; any time you can press 0 to repeat the current question or 9 to go back to the previous question and change your answer. If your appointment has been cancelled or rescheduled, please disregard this message. Although masking requirements have been relaxed in the region, Penn Medicine still requires everyone on campus to wear a mask.",,
+90235,2022-12-05 08:14:55,,2022-12-05 08:41:47,,SMS,Incoming,90235,,Read,,,Please confirm that you are Stephen Boerner or a caregiver. Please reply 1 for yes or reply 2 if we have the wrong number.,,
+90235,2022-12-05 08:41:57,,,,SMS,Outgoing,,,Sent,,,1,,
+90235,2022-12-05 08:42:00,,2022-12-05 08:42:00,,SMS,Incoming,90235,,Read,,,"In the last 7 days, have you been in contact with someone in your house who has been newly diagnosed with COVID-19? Reply 1 if, YES, you have been in contact. Reply 2 if NO, you have not been in contact",,
+90235,2022-12-05 08:42:05,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-12-05 08:42:10,,2022-12-05 08:42:10,,SMS,Incoming,90235,,Read,,,"It's great to hear that you HAVE NOT been in contact with someone newly diagnosed.
+ 
+- Are you currently experiencing any of the following NEW symptoms: sore throat, congestion, loss of taste/smell, difficulty breathing, cough, fatigue, vomiting or diarrhea, loss of appetite, fever above 100F or feeling feverish? 
+ 
+Press 1 if, YES, you are experiencing new symptoms. Press 2, if, NO you are not experiencing new symptoms.",,
+90235,2022-12-05 08:42:18,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-12-05 08:42:21,,2022-12-05 08:42:21,,SMS,Incoming,90235,,Read,,,"It is great to hear you are not experiencing NEW symptoms. Have you tested positive for COVID-19 in the past 10 days? Reply 1 if, YES, you have tested positive for COVID-19. Reply 2, if NO, you have not tested positive for COVID-19.",,
+90235,2022-12-05 08:42:31,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-12-05 08:42:34,,2022-12-05 08:42:34,,SMS,Incoming,90235,,Read,,,"It is great to hear you have not tested positive for COVID-19. 
+ 
+- You may bring a visitor to support you if needed and permitted by the location. Do you intend to bring someone with you? Reply 1 if Yes or Reply 2 if No",,
+90235,2022-12-05 08:42:41,,,,SMS,Outgoing,,,Sent,,,2,,
+90235,2022-12-05 08:42:45,,2022-12-05 08:42:45,,SMS,Incoming,90235,,Read,,,Thank you for letting us know. We would like to provide you with a GreenPass to enter the building when you arrive on campus. The next text is the URL link to your GreenPass,,
+90235,2022-12-05 08:42:53,,2022-12-05 08:42:54,,SMS,Incoming,90235,,Read,,,"https://greenpass.pennmedicine.org/AOyTQmwlEjRs0tMdAThHCAEAAAA9yoFAQDit-A6VKPEOpJA6IkqZ-FyZgAQ8xOdDWOZEsq-gMrqAP0Kqe97-lC_rNojOO1dx3CzW3ZgYdz9bWACf
+ 
+-Thank You for completing Penn Medicine’s Symptom and Contact Screening. If you have any questions about your medical condition, please call your primary or specialty care physician office. If you are having a medical emergency, please call 911.",,

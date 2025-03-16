@@ -1,0 +1,7 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
+48773,2023-09-12 12:13:07,,2023-09-12 12:13:12,,SMS,Incoming,48773,,Read,,,FedEx: Welcome! Reply YES to opt-in and receive future notifications on packages you want to track. Msg&data rates may apply. Reply HELP for help.,,
+48773,2023-09-12 12:13:14,,,,SMS,Outgoing,,,Sent,,,Yes,,
+48773,2023-09-12 12:13:15,,2023-09-12 12:13:15,,SMS,Incoming,48773,,Read,,,FedEx: Thank you. Msg&data rates may apply. Message frequency will depend on shipment activity. Reply HELP for help. Reply STOP to cancel.,,
+48773,2023-09-12 12:13:18,,2023-09-12 12:13:18,,SMS,Incoming,48773,,Read,,,"FedEx: Your package is out for delivery today 09/12 before 8:00P. Signature or signature release required. If you're not going to be home, log in or register for fedex.com/delivery. fedex.com/t/667595762166/en_US Reply HELP for help. STOP to cancel.",,
+48773,2023-09-12 12:52:29,,2023-09-12 13:24:02,,SMS,Incoming,48773,,Read,,,FedEx: A package was delivered 09/12 at 12:42P. Signed for by A.NOLVICK. Rate your delivery: fedex.com/t/667595762166/en_US Reply HELP for help. STOP to cancel,,
+48773,2023-12-19 10:53:04,,2023-12-19 12:00:34,,SMS,Incoming,48773,,Read,,,FedEx: Your package is out for delivery today 12/19 before 1:30P. fedex.com/t/788243608920/en_US Reply HELP for help. STOP to cancel.,,

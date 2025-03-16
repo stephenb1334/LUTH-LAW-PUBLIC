@@ -1,0 +1,36 @@
+----------------------------------------------------
+69877
+2023-03-28 11:01:21 from 69877 - Read
+
+UPS:SMS Tracking Reply YES to Accept SMS Program Terms Msg&Data rates may apply. Msg freq per user activity.
+
+----------------------------------------------------
+69877
+2023-03-28 11:01:55 to 69877 - Sent
+
+YES
+
+----------------------------------------------------
+69877
+2023-03-28 11:02:04 from 69877 - Read
+
+UPS:Welcome Visit ups.com/us/en/help-support-center.page Msg&Data rates may apply. Msg freq per user activity. Reply STOP to cancel msgs
+
+----------------------------------------------------
+69877
+2023-03-28 13:32:26 from 69877 - Read
+
+UPS ups.com/track?loc=en_US&tracknum=1Z7F62913909768557 IN TRANSIT Philadelphia, PA, United States  as of 03/28/2023 9:11 AM. Reply STOP to cancel msgs
+
+----------------------------------------------------
+69877
+2023-03-28 15:37:44 from 69877 - Read
+
+UPS ups.com/track?loc=en_US&tracknum=1Z7F62913909768557 DELIVERED as of 03/28/2023 3:33 PM.  Reply STOP to cancel msgs
+
+----------------------------------------------------
+69877
+2024-02-13 12:32:43 from 69877 - Read
+
+UPS ups.com/su/wpIH6lQM DELIVERED as of 02/13/2024 12:30 PM.  Reply STOP to cancel msgs
+

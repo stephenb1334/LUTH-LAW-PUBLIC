@@ -1,0 +1,12 @@
+----------------------------------------------------
+25161
+2022-10-25 09:06:06 from 25161 - Read
+
+FedEx: Authorization code 031599 expires in 10 minutes. If you didn't request the code, call 1.800.463.3339. Reply Stop to cancel. Msg&data rates may apply.
+
+----------------------------------------------------
+25161
+2023-11-16 12:00:45 from 25161 - Read
+
+FedEx: Authorization code 485245 expires in 10 minutes. If you didn't request the code, call 1.800.463.3339. Reply Stop to cancel. Msg&data rates may apply.
+
