@@ -1,0 +1,14 @@
+----------------------------------------------------
+356937
+2023-09-14 13:33:06 from 356937 - Read
+
+Hey Stephen, your 1-800-Flowers.com order W01005872676018 is confirmed. Track your order's progress here: www.1800flowers.com/account/orders?r=18fsms&utm_medium=SMS&utm_source=twilio&utm_term=transactional&utm_campaign=Transactional_SMS_OrderConfirm&utm_content=link&orderStatusId=W01005872676018&zipCode=19106. 
+If you have any questions, just reply to this message. To opt out, text STOP.
+
+----------------------------------------------------
+356937
+2023-09-14 18:42:55 from 356937 - Read
+
+Your 1-800-Flowers.com order W01005872676018 has been delivered. www.1800flowers.com/account/orders?r=18fsms&utm_medium=SMS&utm_source=twilio&utm_term=transactional&utm_campaign=Transactional_SMS_OrderConfirm&utm_content=link&orderStatusId=W01005872676018&zipCode=19106.
+Thanks for trusting us in helping you connect, express, and celebrate!
+

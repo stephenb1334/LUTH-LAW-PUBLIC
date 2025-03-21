@@ -1,0 +1,14 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
++17277615054,2023-09-28 11:15:30,,2023-09-28 11:27:05,,SMS,Incoming,+17277615054,,Read,,,"Hi Steve, its June with Solar Max.
+
+Are you available for a quick phone call to explain how the program works?",,
++17277615054,2023-09-28 11:27:15,,,,SMS,Outgoing,,,Sent,,,I just spoke with someone ,,
++17277615054,2023-09-28 11:27:26,,,,SMS,Outgoing,,,Sent,,,From Velocity AC,,
++17277615054,2023-09-28 11:27:35,,,,SMS,Outgoing,,,Sent,,,Who said they were also with Solar Max ,,
++17277615054,2023-09-28 11:28:11,,2023-09-28 11:56:57,,SMS,Incoming,+17277615054,,Read,,,"Steve, we look forward to our appointment on October 5, 2023 at 2:00 PM.
+
+As requested, please send a copy of your power bill back to this #. This allows our Design Dept to create your proposal beforehand.
+
+Thank you for the opportunity to earn your business,
+
+Solar Max",,

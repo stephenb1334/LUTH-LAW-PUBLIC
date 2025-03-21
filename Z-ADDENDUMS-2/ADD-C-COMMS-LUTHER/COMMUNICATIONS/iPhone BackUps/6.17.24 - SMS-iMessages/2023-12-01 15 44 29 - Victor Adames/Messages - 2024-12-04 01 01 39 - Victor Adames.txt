@@ -1,0 +1,436 @@
+----------------------------------------------------
+Victor Adames
+2023-10-29 14:29:42 to Victor Adames - Delivered
+
+Hi Victor, 
+
+I just left a voicemail. My name is Steve Berner. I’m calling from Solar First per your request for Rooftop Solar information on Angi’s List. 
+
+Granted, it’s a Sunday but don’t hesitate to call if you’d like to have an intro conversation. I’m in the office working all day. Here to help however I can. Or, happy to call you this week. 
+
+Just let me know what you’d prefer
+
+----------------------------------------------------
+Victor Adames
+2023-11-01 13:24:40 from Victor Adames (+16315603630) - Read
+
+Ok 👍 
+
+----------------------------------------------------
+Victor Adames
+2023-11-01 13:24:44 from Victor Adames (+16315603630) - Read
+
+No worries 
+
+----------------------------------------------------
+Victor Adames
+2023-11-01 13:55:13 to Victor Adames - Delivered
+
+Great. Eta 3:15-3:30. Appreciate the understanding and flexibility
+
+----------------------------------------------------
+Victor Adames
+2023-11-01 15:12:36 to Victor Adames - Delivered
+
+I am 15 minutes away 
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 11:24:08 to Victor Adames - Delivered
+
+Hi Victor, 
+
+This is Steve from Solar First. 
+
+I’d like to propose a phone discussion today. 
+
+Based on the detail you provided me regarding other quotes, there is some important detail to be aware of.
+
+You can take this intel back to the other solar companies to gain confidence in your decision. 
+
+I would feel more confident as well knowing my forthcoming proposal is as accurate and comparable as possible.
+
+I wanted to meet the morning deadline but just sending a proposal without added context isn’t best for you. My engineer flagged a few things for us. 
+
+An afternoon discussion will result in me providing a firm, confident quote submission that we’re equally aligned on. I will move my afternoon around based on what time works for you.
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 11:26:53 from Victor Adames (+16315603630) - Read
+
+Phone works better because of all the appointments I have as soon as possible 
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 11:29:27 to Victor Adames - Delivered
+
+Phone preferred. I can’t stop by today, but am actively working on your system with my engineer. 
+
+Can we take 20 minutes of time to speak late afternoon or when the dust settles on your end?
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 11:29:51 from Victor Adames (+16315603630) - Read
+
+Ok
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 11:32:29 to Victor Adames - Delivered
+
+Thank you. I believe you’ll find this insight of value. I’ll text you around 2pm to check for availability.
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 11:32:53 from Victor Adames (+16315603630) - Read
+
+Ok
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 11:51:22 from Victor Adames (+16315603630) - Read
+
+If you can just give me a price for 7kw / mono panels / emphase micro inverters / all metal roof standoffs and installation this year is all I need to make my decision 
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 13:31:35 to Victor Adames - Delivered
+
+Enphase Microinverters have a 300W limit. That is often left out of quotes and customers are unaware. So I need to confirm this to provide a quote that is apples to apples comparable. 
+
+Each Enphase microinverter connected to a single panel will only take in 300W. If you have panel sizes in your quote that are over 300W, you are paying for the benefits of a 7.0 kW system, but you’re not going to actually get a 7.0 kW system. 
+
+If the panels in your quote are 300W, to truly have a 7.0 kW system, you would need 23.33 panels (300W Panel Size x 23.33 panels = 6,999 kW). 
+ 
+If the panels are rated at 400W, you would need 17.5 panels for 7.0 kW system  (400 x 17.5 = 7.0 kW) and if your quote has 385W panels, you would need 18.18 panels (385 x 18.18 = 7.0 kW).
+
+How many panels are in your quote and at what wattage per panel?
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 13:32:27 from Victor Adames (+16315603630) - Read
+
+16 at 400 
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 13:33:04 to Victor Adames - Delivered
+
+With Enphase micro-inverters, 100W per panel will be wasted. That is a technical mismatch of product design.
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 13:33:20 to Victor Adames - Delivered
+
+It will show well on paper, but you will not be getting a 7.0 system. 
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 13:34:00 to Victor Adames - Delivered
+
+That is 6.4kw 
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 13:34:09 from Victor Adames (+16315603630) - Read
+
+16 panels at 400 watts each
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 13:36:25 to Victor Adames - Delivered
+
+That is 6,400 = 6.4 kw system …this was what I wanted to flag. I can help bring more clarity. I’ll send the proposal and would like to explain the purposeful design behind it
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 13:37:26 from Victor Adames (+16315603630) - Read
+
+They said that would cover 97%
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 13:40:03 to Victor Adames - Delivered
+
+In reality, because the Enphase Microinverters are restricted to 300W limit per panel, it would be 16 panels x 300 W. 
+
+That equals 4,800 which is a 4.8 kW system. A 4.8kW system will produce roughly 7,867 kWh per year based on the department of energy tool I showed you we use called PV Watts. You used 10,176 kWh over the last 12 months as we pulled up on FPL. 
+
+That is only 77.3%
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 13:40:57 to Victor Adames - Delivered
+
+The Enphase Microinverter 300W per panel restriction is critical with all this. But it isn’t communicated
+
+----------------------------------------------------
+Victor Adames
+2023-11-02 18:41:52 to Victor Adames - Delivered
+
+Victor, I enjoyed the back and forth today. Also appreciated you allowing me in on enough information to add value in your evaluation. I hoped it helped. 
+
+I sent a proposal summary by email. I had to head out of the office early so it’s an informal video breakdown, but firm and honest. Here for whatever you need. Have a good evening
+
+----------------------------------------------------
+Victor Adames
+2023-11-03 15:33:26 from Victor Adames (+16315603630) - Read
+
+Are you available 130 instead of 11 
+
+----------------------------------------------------
+Victor Adames
+2023-11-03 16:50:14 to Victor Adames - Delivered
+
+Yes. 1:30pm on Tuesday, November 7th works great for us. 
+
+Shortly, I will be sending you an email along with a calendar invite with our company address. The email will spell out the proposal details and agenda for Tuesday. 
+
+Derek Piotter, our Solar First CEO, and Kyle Lee, our Customer Service Lead, will be be in attendance to meet and answer questions. I mentioned Kyle I believe. He will be overseeing the permitting oversight. I let him know about your pool delay with permitting. Kyle is very good. 
+
+Email summary coming this weekend I’m aiming for tomorrow.
+
+Kyle and I are preparing the paperwork for Tuesday for when we sit down. He will also review timeline, how permitting will work, and what to expect so we are all aligned
+
+----------------------------------------------------
+Victor Adames
+2023-11-03 16:51:26 from Victor Adames (+16315603630) - Read
+
+Ok thank you 
+
+----------------------------------------------------
+Victor Adames
+2023-11-03 16:53:57 to Victor Adames - Delivered
+
+And of course, I will be there as well on Tuesday. If any questions pop up, please let me know but next action item is my email & calendar invite. 
+
+Have a great weekend
+
+----------------------------------------------------
+Victor Adames
+2023-11-03 16:54:23 from Victor Adames (+16315603630) - Read
+
+👍 
+
+----------------------------------------------------
+Victor Adames
+2023-11-06 09:59:37 to Victor Adames - Delivered
+
+Victor, I sent the calendar invite and proposal over the weekend/this morning. 
+
+Later today, I’m sending the contract and forms for your review prior to leaving for Fort Myers tomorrow. 
+
+I will have the same versions of what I send you prepared for review in person
+
+----------------------------------------------------
+Victor Adames
+2023-11-06 11:28:33 from Victor Adames (+16315603630) - Read
+
+Ok thank you 
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 11:07:09 to Victor Adames - Delivered
+
+Hi Victor, I’m confirming today’s 1:30pm meeting at the Fort Worth office. Please confirm. I’m on my way there now
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 11:07:34 from Victor Adames (+16315603630) - Read
+
+Yes
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 11:07:44 to Victor Adames - Delivered
+
+Liked “Yes”
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 11:22:11 to Victor Adames - Delivered
+
+Just an FYI on timing …My ETA is 12:15 PM and Rick confirmed he can join Kyle and I for the 1:30 PM meeting with my Naples deal (Victor). 
+
+I have all the prints in a big plastic  moving box and I can leave my jeep unlocked to pop the trunk if you are heading out or I can bring in the box to the office
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 11:23:54 from Victor Adames (+16315603630) - Read
+
+Excuse me but I don’t understand 
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 11:24:39 to Victor Adames - Delivered
+
+Ah my apologies that text was for our CEO . Please disregard 
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 11:24:52 from Victor Adames (+16315603630) - Read
+
+👍 
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 13:30:46 from Victor Adames (+16315603630) - Read
+
+Hey 👋 should be there in 15 minutes 
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 13:31:39 to Victor Adames - Delivered
+
+No problem 
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 13:31:49 from Victor Adames (+16315603630) - Read
+
+Liked “No problem ”
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 17:53:00 to Victor Adames - Delivered
+
+I emailed you the examples for the photos. You can text them to me or email them to me whatever is easiest for you more pictures are better than less per angle but we will evaluate them when they come in. Thank you again for coming up to the office today and I’m glad you got a chance to meet Rick, he truly is the best in the business
+
+----------------------------------------------------
+Victor Adames
+2023-11-07 21:57:12 from Victor Adames (+16315603630) - Read
+
+Ok thnx I will send them to you tomorrow morning 😎
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:27:58 from Victor Adames (+16315603630) - Read
+
+IMG_2130.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:27:58 from Victor Adames (+16315603630) - Read
+
+IMG_2129.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:27:58 from Victor Adames (+16315603630) - Read
+
+IMG_2128.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:27:58 from Victor Adames (+16315603630) - Read
+
+IMG_2127.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:27:58 from Victor Adames (+16315603630) - Read
+
+IMG_2126.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:27:58 from Victor Adames (+16315603630) - Read
+
+IMG_2125.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:27:58 from Victor Adames (+16315603630) - Read
+
+IMG_2124.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:27:58 from Victor Adames (+16315603630) - Read
+
+IMG_2123.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:27:58 from Victor Adames (+16315603630) - Read
+
+IMG_2122.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:28:18 from Victor Adames (+16315603630) - Read
+
+IMG_2122.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:28:18 from Victor Adames (+16315603630) - Read
+
+IMG_2121.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:28:18 from Victor Adames (+16315603630) - Read
+
+IMG_2123.HEIC (Image)
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 08:28:18 from Victor Adames (+16315603630) - Read
+
+FYI please see attached photos 
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 09:29:17 to Victor Adames - Delivered
+
+Great. Rick is reviewing but these look good to me. Thank you for teaming up on this. I’ll confirm these pictures will suffice with engineering when I hear back
+
+----------------------------------------------------
+Victor Adames
+2023-11-08 09:30:03 from Victor Adames (+16315603630) - Read
+
+👍 thanks for prompt response 
+
+----------------------------------------------------
+Victor Adames
+2023-11-13 13:43:42 from Victor Adames (+16315603630) - Read
+
+Good afternoon I took care of the paperwork let me know if you need anything else 
+
+----------------------------------------------------
+Victor Adames
+2023-11-13 14:26:32 to Victor Adames - Delivered
+
+You are in the running for a customer of the year. Fastest replies we have seen. 
+
+I also approved the budget today to discount your final payment upon completion as a thank you for serving our country. 
+
+I plan to be there on site when we install and then return after inspection to turn on the system. 
+
+I’d like to deliver the details at that time and preferably in person to thank you face to face and to also celebrate the both of you and the system we partnered on
+
+----------------------------------------------------
+Victor Adames
+2023-11-13 14:28:03 from Victor Adames (+16315603630) - Read
+
+👍 great thank you 😎
+
+----------------------------------------------------
+Victor Adames
+2023-12-01 15:36:57 to Victor Adames - Delivered
+
+Victor, Kyle from the office is calling. I can't speak until 5
+
+----------------------------------------------------
+Victor Adames
+2023-12-01 15:37:16 to Victor Adames - Delivered
+
+I'll check in shortly with Kyle and happy to speak as required after 5 
+
+----------------------------------------------------
+Victor Adames
+2023-12-01 15:44:29 from Victor Adames (+16315603630) - Read
+
+That’s okay thank you he already answered my question 
+

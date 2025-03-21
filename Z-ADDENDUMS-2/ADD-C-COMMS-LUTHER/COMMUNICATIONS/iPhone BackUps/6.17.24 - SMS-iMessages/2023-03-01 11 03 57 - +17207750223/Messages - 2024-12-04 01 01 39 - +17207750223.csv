@@ -1,0 +1,5 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
++17207750223,2023-03-01 09:53:28,,2023-03-01 10:23:11,,iMessage,Incoming,+17207750223,,Read,,,"Steve, this is Braden with E2 Optics. I’ve called you twice trying to discuss the email you sent to me. Please call me back.",,
++17207750223,2023-03-01 10:35:51,2023-03-01 10:35:53,,,iMessage,Outgoing,,,Delivered,,,"Hi Branden, are you free in 25 minutes?",,
++17207750223,2023-03-01 10:50:54,,2023-03-01 10:59:39,,iMessage,Incoming,+17207750223,,Read,,,Yes,,
++17207750223,2023-03-01 11:03:57,2023-03-01 11:03:59,,,iMessage,Outgoing,,,Delivered,,,Hello. Just called you. I’m free for the next 20 minutes and any time this afternoon. I’m EST,,

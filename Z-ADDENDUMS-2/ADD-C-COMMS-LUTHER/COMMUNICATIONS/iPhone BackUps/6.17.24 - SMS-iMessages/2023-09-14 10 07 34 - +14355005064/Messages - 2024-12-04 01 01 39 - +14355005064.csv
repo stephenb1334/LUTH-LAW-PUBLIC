@@ -1,0 +1,9 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
++14355005064,2023-09-13 13:29:40,,2023-09-13 14:11:48,,SMS,Incoming,+14355005064,,Read,,,"👋 Hey Steve this is Jonny with JobNimbus! I wanted to reach out and set you up with a personalized demo to get the most out of your free trial. Is there a day and time that works best for you? 
+
+Here is a link to schedule that yourself if you only have a spare minute: https://jobnimbus.na.chilipiper.com/book/inbound-lead-queue",,
++14355005064,2023-09-13 16:11:54,,,,SMS,Outgoing,,,Sent,,,Kyle my colleague is going to schedule time with you ,,
++14355005064,2023-09-13 16:22:49,,2023-09-13 16:22:52,,SMS,Incoming,+14355005064,,Read,,,"Hey Steve, just got off the phone with Kyle and we set up a time to meet and discuss details tomorrow morning! We'd love for you to join us, we'll be touching on all the JobNimbus functionality as well as pricing and onboarding training options so your input would be great. We will be adding you to the invitation so look out for your zoom link!",,
++14355005064,2023-09-13 16:23:07,,,,SMS,Outgoing,,,Sent,,,Ok great!,,
++14355005064,2023-09-14 10:06:04,,2023-09-14 10:06:56,,SMS,Incoming,+14355005064,,Read,,,"Hi Steve, Chris will have the zoom meeting open for your JobNimbus Walkthrough in 10 minutes. We still good to go for that time?",,
++14355005064,2023-09-14 10:07:34,,,,SMS,Outgoing,,,Sent,,,Yes,,

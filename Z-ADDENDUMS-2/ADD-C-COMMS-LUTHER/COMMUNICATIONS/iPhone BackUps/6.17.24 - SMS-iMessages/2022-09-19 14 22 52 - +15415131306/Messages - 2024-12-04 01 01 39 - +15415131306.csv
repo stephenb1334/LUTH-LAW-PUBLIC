@@ -1,0 +1,5 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
++15415131306,2022-09-19 14:00:49,,2022-09-19 14:16:56,,iMessage,Incoming,+15415131306,,Read,,,"Hi Steve, I’m stuck in traffic and will need to call in. Could you send me the dial ininfo?",,
++15415131306,2022-09-19 14:17:11,2022-09-19 14:17:12,,,iMessage,Outgoing,,,Delivered,,,There isn’t a phone number in the invite I can’t see any ,,
++15415131306,2022-09-19 14:17:25,2022-09-19 14:17:26,,,iMessage,Outgoing,,,Delivered,,,I can fill you in. Jon mentioned it was his fault ,,
++15415131306,2022-09-19 14:22:52,,2022-09-19 14:50:09,,iMessage,Incoming,+15415131306,,Read,,,"Okay, sorry about that!",,

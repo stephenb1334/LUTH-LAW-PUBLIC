@@ -1,0 +1,24 @@
+----------------------------------------------------
++18663162432
+2023-06-16 11:23:28 from +18663162432 - Read
+
+Mr Cooper Loans. Sensitive Alert. 1-Pay Online www.mrcooper.com 2-Pay via phone at 8663162432.*We are a debt collector.*To OptOut, reply "stop"
+
+----------------------------------------------------
++18663162432
+2023-06-24 11:06:52 from +18663162432 - Read
+
+Mr Cooper Loans. Sensitive Alert. 1-Pay Online www.mrcooper.com 2-Pay via phone at 8663162432.*We are a debt collector.*To OptOut, reply "stop"
+
+----------------------------------------------------
++18663162432
+2023-06-24 12:21:16 to +18663162432 - Sent
+
+Stop
+
+----------------------------------------------------
++18663162432
+2023-06-24 12:21:17 from +18663162432 - Read
+
+NETWORK MSG: You replied with the word "stop" which blocks all texts sent from this number. Text back "unstop" or "start" to receive messages again.
+

@@ -1,0 +1,24 @@
+----------------------------------------------------
+41368
+2024-06-11 11:42:31 from 41368 - Read
+
+Hi, this is Aetna with health plan info. Read the terms at my.aetna.com/SMSTC. Msg & data rates may apply. To opt out of all text messages, reply STOP.
+
+----------------------------------------------------
+41368
+2024-06-11 11:44:25 from 41368 - Read
+
+Aetna: Have a prescription? If so, you may have a refill due in 3 days. Stay healthy: Take your Rx on time. Reply NORX to stop.
+
+----------------------------------------------------
+41368
+2024-06-11 11:59:26 to 41368 - Sent
+
+Stop
+
+----------------------------------------------------
+41368
+2024-06-11 11:59:33 from 41368 - Read
+
+Aetna: You have opted out and will receive no further messages from this number. Call us at 8008723862 (TTY: 711). For help, reply HELP.
+

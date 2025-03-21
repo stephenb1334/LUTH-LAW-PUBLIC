@@ -1,0 +1,16 @@
+Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
++12158760255,2023-07-14 15:39:16,,2023-07-14 15:46:43,,SMS,Incoming,+12158760255,,Read,,,"Hello, this is Penn Medicine with an important reminder about your upcoming appointment!
+
+Stephen has an appt on Monday 7/17 at DELANCEY INTERNAL MED RITTENHOUSE, please arrive by  3:15pm at 1840 South St 1st Floor Philadelphia, PA 19146.    To confirm this appointment text CONFIRM.  To cancel, text CANCEL.",,
++12158760255,2023-07-17 11:42:22,,2023-07-17 12:04:48,,SMS,Incoming,+12158760255,,Read,,,"Hello, this is Penn Medicine with an important reminder about your upcoming appointment!
+
+Stephen has an appt on Monday 7/17 at DELANCEY INTERNAL MED RITTENHOUSE, please arrive by 3:15pm at 1840 South St 1st Floor Philadelphia, PA 19146.   To confirm this appointment text CONFIRM.  To cancel, text CANCEL.",,
++12158760255,2023-07-17 12:04:52,,,,SMS,Outgoing,,,Sent,,,CONFIRM ,,
++12158760255,2023-07-17 12:04:54,,2023-07-17 12:04:54,,SMS,Incoming,+12158760255,,Read,,,Thank you for confirming your appointment!,,
++12158760255,2023-08-08 07:36:45,,2023-08-08 07:36:58,,SMS,Incoming,+12158760255,,Read,,,"Hello, this is Penn Medicine with an important reminder about your upcoming appointment!
+
+Stephen has an appt on Tuesday 8/29 at DELANCEY INTERNAL MED RITTENHOUSE, please arrive by  7:15am at 1840 South St 1st Floor Philadelphia, PA 19146.    To confirm this appointment text CONFIRM.  To cancel, text CANCEL. Text & data rates apply; reply Stop to opt out.",,
++12158760255,2023-08-13 19:35:34,,,,SMS,Outgoing,,,Sent,,,CANCEL,,
++12158760255,2023-08-13 19:35:35,,2023-08-13 19:35:35,,SMS,Incoming,+12158760255,,Read,,,You have successfully been unsubscribed. You will not receive any more messages from this number. Reply START to resubscribe.,,
++12158760255,2023-08-13 19:35:45,,,,SMS,Outgoing,,,Sent,,,START,,
++12158760255,2023-08-13 19:35:46,,2023-08-13 19:35:46,,SMS,Incoming,+12158760255,,Read,,,You have successfully been re-subscribed to messages from this number. Reply HELP for help. Reply STOP to unsubscribe. Msg&Data Rates May Apply.,,
