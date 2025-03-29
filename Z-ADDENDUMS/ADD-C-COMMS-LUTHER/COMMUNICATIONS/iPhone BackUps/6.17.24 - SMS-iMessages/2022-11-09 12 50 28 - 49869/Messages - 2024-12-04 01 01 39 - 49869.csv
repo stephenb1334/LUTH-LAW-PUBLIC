@@ -1,6 +1,0 @@
-Chat Session,Message Date,Delivered Date,Read Date,Edited Date,Service,Type,Sender ID,Sender Name,Status,Replying to,Subject,Text,Attachment,Attachment type
-49869,2022-11-09 10:51:54,,2022-11-09 11:06:23,,SMS,Incoming,49869,,Read,,,"Hi from Verizon! We have a special offer just for you. Right now, you can get $150 off any Apple Watch when you add a new line of service. Hurry! Respond now to schedule your appt. Add'l terms apply. Reply 'X' to unsubscribe from this free Verizon msg.",,
-49869,2022-11-09 12:50:17,,,,SMS,Outgoing,,,Sent,,,X,,
-49869,2022-11-09 12:50:18,,2022-11-09 12:50:19,,SMS,Incoming,49869,,Read,,,"Verizon Msg: Thank you. If you wish to restrict all future marketing text messages from Verizon Wireless, reply 'Q'.",,
-49869,2022-11-09 12:50:27,,,,SMS,Outgoing,,,Sent,,,Q,,
-49869,2022-11-09 12:50:28,,2022-11-09 12:50:28,,SMS,Incoming,49869,,Read,,,Verizon Msg: You have successfully unsubscribed from future Verizon Wireless text messages.,,
