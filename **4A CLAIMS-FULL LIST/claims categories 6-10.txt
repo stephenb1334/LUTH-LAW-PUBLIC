@@ -1,0 +1,197 @@
+{
+  "tableOfContents": [
+    {
+      "category": "C6: Negligence and Safety Claims",
+      "subCategories": [
+        {
+          "nodeID": "C6-S1",
+          "tag": "[Cat=Negligence;Sub=PremisesSecurity]",
+          "title": "Negligent Premises Security (Home Invasion Incident)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C6-S2",
+          "tag": "[Cat=Negligence;Sub=GatesMaintenance]",
+          "title": "Failure to Repair/Replace Defective Gates After Express Notice",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C6-S3",
+          "tag": "[Cat=Negligence;Sub=SecurityLighting]",
+          "title": "Known Defective Security Lighting/Motion Sensors",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C6-S4",
+          "tag": "[Cat=Negligence;Sub=EmotionalDistress]",
+          "title": "Negligent Infliction of Emotional Distress (Security Breach & PTSD)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C6-S5",
+          "tag": "[Cat=Negligence;Sub=KitchenPlumbing]",
+          "title": "Plumbing Maintenance Failures (Kitchen Sink)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C6-S6",
+          "tag": "[Cat=Negligence;Sub=SupervisoryNeglect]",
+          "title": "Negligent Supervision of Property Management",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Compass Florida, LLC"]
+        }
+      ]
+    },
+    {
+      "category": "C7: Realtor and Agent Fiduciary Claims",
+      "subCategories": [
+        {
+          "nodeID": "C7-S1",
+          "tag": "[Cat=Realtor;Sub=DualAgency]",
+          "title": "Undisclosed Dual Agency or Agency Conflicts (Fla. Stat. §475.278)",
+          "defendants": ["Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C7-S2",
+          "tag": "[Cat=Realtor;Sub=DisclosureDuty]",
+          "title": "Breach of Realtor's Disclosure Duties (Fla. Stat. §475.278)",
+          "defendants": ["Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C7-S3",
+          "tag": "[Cat=Realtor;Sub=ResponsiveComm]",
+          "title": "Breach of Duty of Responsiveness/Communication",
+          "defendants": ["Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C7-S4",
+          "tag": "[Cat=Realtor;Sub=SecurityDepositAid]",
+          "title": "Improper Involvement in Security Deposit Dispute",
+          "defendants": ["Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C7-S5",
+          "tag": "[Cat=Realtor;Sub=SupervisingBroker]",
+          "title": "Supervisory Broker Liability (Fla. Admin. Code R. 61J2-14.012)",
+          "defendants": ["Compass Florida, LLC"]
+        }
+      ]
+    },
+    {
+      "category": "C8: Ethics and Professional Misconduct",
+      "subCategories": [
+        {
+          "nodeID": "C8-S1",
+          "tag": "[Cat=Ethics;Sub=FRECViolations]",
+          "title": "Florida Real Estate Commission (FREC) Ethics Violations",
+          "defendants": ["Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C8-S2",
+          "tag": "[Cat=Ethics;Sub=UPL]",
+          "title": "Unauthorized Practice of Law (UPL) (Fla. Rules of Professional Conduct)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C8-S3",
+          "tag": "[Cat=Ethics;Sub=RollinsAttorneyStatus]",
+          "title": "Misuse of Attorney Status for Intimidation (Fla. Bar Rules 4-8.4(c))",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk"]
+        },
+        {
+          "nodeID": "C8-S4",
+          "tag": "[Cat=Ethics;Sub=NAREthics]",
+          "title": "National Association of Realtors (NAR) Code of Ethics Violations",
+          "defendants": ["Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C8-S5",
+          "tag": "[Cat=Ethics;Sub=PhoneIntimidation]",
+          "title": "Coercive Phone Call Demands / Harassment Communications",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C8-S6",
+          "tag": "[Cat=Ethics;Sub=ViolationsDuringSuit]",
+          "title": "Ongoing Violations During Legal Proceedings",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        }
+      ]
+    },
+    {
+      "category": "C9: Fair Housing and Civil Rights",
+      "subCategories": [
+        {
+          "nodeID": "C9-S1",
+          "tag": "[Cat=FairHousing;Sub=DisabilityAccommodation]",
+          "title": "Failure to Provide Reasonable Accommodation (PTSD Considerations)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C9-S2",
+          "tag": "[Cat=FairHousing;Sub=EmotionalSupport]",
+          "title": "Pet-Related Housing Discrimination (Emotional Support Animal)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C9-S3",
+          "tag": "[Cat=FairHousing;Sub=RetaliationFHAA]",
+          "title": "Retaliation After Asserting Rights (Fair Housing)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C9-S4",
+          "tag": "[Cat=FairHousing;Sub=FHACommunication]",
+          "title": "FHA Violations in Communications/Documenting Infractions",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        }
+      ]
+    },
+    {
+      "category": "C10: Damages and Remedies Claims",
+      "subCategories": [
+        {
+          "nodeID": "C10-S1",
+          "tag": "[Cat=Damages;Sub=TrebleStatutory]",
+          "title": "Treble Damages (Conversion/Civil Theft)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C10-S2",
+          "tag": "[Cat=Damages;Sub=SecurityDepositPenalty]",
+          "title": "Security Deposit Statutory Penalties (Fla. Stat. §83.49(3)(c))",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C10-S3",
+          "tag": "[Cat=Damages;Sub=CompensatoryDamages]",
+          "title": "Compensatory Damages (Actual Economic Losses)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C10-S4",
+          "tag": "[Cat=Damages;Sub=PunitiveDamages]",
+          "title": "Punitive Damages (Fla. Stat. §768.72)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C10-S5",
+          "tag": "[Cat=Damages;Sub=EmotionalPainSuffering]",
+          "title": "Emotional Distress / Pain and Suffering",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C10-S6",
+          "tag": "[Cat=Damages;Sub=AttorneyFees]",
+          "title": "Attorney's Fees and Costs (Fla. Stat. §83.48, §57.105)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C10-S7",
+          "tag": "[Cat=Damages;Sub=TenantPropertyValue]",
+          "title": "Value of Tenant's Personal Property (Weber Grill, etc.)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        }
+      ]
+    }
+  ]
+}

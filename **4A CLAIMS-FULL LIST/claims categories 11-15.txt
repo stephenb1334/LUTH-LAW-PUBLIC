@@ -1,0 +1,203 @@
+{
+  "tableOfContents": [
+    {
+      "category": "C11: Privacy and Communications Claims",
+      "subCategories": [
+        {
+          "nodeID": "C11-S1",
+          "tag": "[Cat=Privacy;Sub=UnauthorizedEntry]",
+          "title": "Unauthorized Entry/Failure to Provide Entry Notice (Fla. Stat. §83.53)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C11-S2",
+          "tag": "[Cat=Privacy;Sub=RecordingTenants]",
+          "title": "Unauthorized Recording or Surveillance (Fla. Stat. §934.03)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C11-S3",
+          "tag": "[Cat=Privacy;Sub=CoercivePhoneDemands]",
+          "title": "Coercive Communication Practices (Telephone Harassment)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C11-S4", 
+          "tag": "[Cat=Privacy;Sub=TextMisrepresentations]",
+          "title": "Misrepresentations in Text Communications",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C11-S5",
+          "tag": "[Cat=Privacy;Sub=PeacefulEnjoyment]",
+          "title": "Interference with Peaceful Enjoyment of Premises",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        }
+      ]
+    },
+    {
+      "category": "C12: Property Condition and Maintenance Claims",
+      "subCategories": [
+        {
+          "nodeID": "C12-S1",
+          "tag": "[Cat=Maintenance;Sub=OutdoorLighting]",
+          "title": "Failure to Repair Defective Motion Sensor/Security Lighting",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C12-S2", 
+          "tag": "[Cat=Maintenance;Sub=PlumbingFix83.51]",
+          "title": "Plumbing Defects (Fla. Stat. §83.51(1)(b))",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C12-S3",
+          "tag": "[Cat=Maintenance;Sub=SecurityGates]",
+          "title": "Gate/Property Security Defects - Post Break-in",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C12-S4",
+          "tag": "[Cat=Maintenance;Sub=HVAC]",
+          "title": "AC/HVAC System Failures (Fla. Stat. §83.51)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C12-S5",
+          "tag": "[Cat=Maintenance;Sub=Response83.56]",
+          "title": "Material Failure to Respond to Maintenance Requests (Fla. Stat. §83.56)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C12-S6",
+          "tag": "[Cat=Maintenance;Sub=PostBreakInSafety]",
+          "title": "Post-Criminal Event Safety Failures (Fla. Stat. §83.51(2)(a))",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        }
+      ]
+    },
+    {
+      "category": "C13: Administrative and Regulatory Claims",
+      "subCategories": [
+        {
+          "nodeID": "C13-S1",
+          "tag": "[Cat=Regulatory;Sub=DBPR]",
+          "title": "Department of Business and Professional Regulation (DBPR) Violations",
+          "defendants": ["Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C13-S2",
+          "tag": "[Cat=Regulatory;Sub=FREC455]",
+          "title": "Florida Real Estate Commission Violations (Fla. Stat. §455.227)",
+          "defendants": ["Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C13-S3",
+          "tag": "[Cat=Regulatory;Sub=BusinessRegistration]",
+          "title": "Failure to Register Business Entity (Florida Division of Corporations)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C13-S4",
+          "tag": "[Cat=Regulatory;Sub=TaxReportingViolations]",
+          "title": "Tax Reporting/Documentation Violations (Possible IRS/DOR Issues)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C13-S5",
+          "tag": "[Cat=Regulatory;Sub=BuildingCodeViolations]",
+          "title": "Building/Housing Code Violations (Fla. Stat. §83.51)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        }
+      ]
+    },
+    {
+      "category": "C14: Professional Responsibility and Licensure Issues",
+      "subCategories": [
+        {
+          "nodeID": "C14-S1",
+          "tag": "[Cat=ProfResp;Sub=RollinsAttorneyMisuse]",
+          "title": "Misuse of Attorney Status in Landlord Role (Fla. Bar Rules)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk"]
+        },
+        {
+          "nodeID": "C14-S2",
+          "tag": "[Cat=ProfResp;Sub=RealtorDuties]",
+          "title": "Realtor Breach of Professional Ethics (NAR Code Art. 1-3)",
+          "defendants": ["Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C14-S3",
+          "tag": "[Cat=ProfResp;Sub=SupervisoryFailures]",
+          "title": "Broker Supervisory Failures (Fla. Admin. Code R. 61J2-14.012)",
+          "defendants": ["Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C14-S4",
+          "tag": "[Cat=ProfResp;Sub=MisrepExpertise]",
+          "title": "Misrepresentation of Expertise/Qualifications",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C14-S5",
+          "tag": "[Cat=ProfResp;Sub=ConflictOfInterest]",
+          "title": "Undisclosed Conflicts of Interest (Fla. Stat. §475.278)",
+          "defendants": ["Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C14-S6",
+          "tag": "[Cat=ProfResp;Sub=ImproperAdvice]",
+          "title": "Providing Improper Legal/Financial Advice Beyond Scope",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        }
+      ]
+    },
+    {
+      "category": "C15: Documentation and Evidence-Based Claims",
+      "subCategories": [
+        {
+          "nodeID": "C15-S1",
+          "tag": "[Cat=Documentation;Sub=MissingInventory]",
+          "title": "Failure to Provide/Execute Property Inventory (Lease Requirement)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C15-S2",
+          "tag": "[Cat=Documentation;Sub=FalseDamageRepresentations]",
+          "title": "False Representations of Property Condition/Damages",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C15-S3",
+          "tag": "[Cat=Documentation;Sub=ImproperNotices]",
+          "title": "Improper Lease Notices/Communications (Fla. Stat. §83.49, §83.50)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C15-S4",
+          "tag": "[Cat=Documentation;Sub=GrillPhotoEvidence]",
+          "title": "Photographic Evidence of Continuing Unauthorized Use of Personal Property",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C15-S5",
+          "tag": "[Cat=Documentation;Sub=MissingMoveInDocs]",
+          "title": "Failure to Provide Move-In Documentation (Condition Form)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C15-S6",
+          "tag": "[Cat=Documentation;Sub=IncorrectLeaseAddresses]",
+          "title": "Erroneous/Contradictory Lease Address Information",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C15-S7",
+          "tag": "[Cat=Documentation;Sub=MissingLeasePages]",
+          "title": "Incomplete Lease Documentation/Missing Pages",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises", "Zach Steinberger", "Compass Florida, LLC"]
+        }
+      ]
+    }
+  ]
+}

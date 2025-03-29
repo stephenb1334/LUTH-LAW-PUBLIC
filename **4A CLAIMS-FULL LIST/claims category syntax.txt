@@ -1,0 +1,78 @@
+# DETAILED EXPLANATION OF THE SYNTAX SYSTEM
+
+The syntax system used in the claims documentation follows a precise, hierarchical structure designed for legal organization, reference, and tracking. This system enables efficient documentation management, easy referencing, and clear attribution of claims to defendants.
+
+## 1. Category Structure
+
+    - **Main Categories**: Numbered with "C" prefix (C1-C15)
+    - **Purpose**: Groups similar claims by legal theory or subject matter
+    - **Example**: `C1: Florida Landlord-Tenant Statutory Violations`
+    - **Usage**: Allows for broad organization of claims into logical groupings
+
+    ## 2. NodeID System
+
+    - **Format**: `C#-S#`
+    - **Components**:
+        - C# = Category number
+        - S# = Subcategory number
+        - Hyphen separator between components
+    - **Purpose**: Creates a unique identifier for each claim for cross-referencing
+    - **Example**: `C3-S4` = Category 3, Subcategory 4
+    - **Usage**: Can be referenced in legal documents, notes, or discovery requests
+
+    ## 3. Tag Syntax
+
+    - **Format**: `[Cat=CategoryCode;Sub=SubcategoryCode]`
+    - **Components**:
+        - Square brackets enclose the entire tag
+        - Cat= introduces category code
+        - Sub= introduces subcategory code
+        - Semicolon separates the two components
+        - No spaces within tag structure
+    - **Purpose**: Creates a standardized reference code for each claim type
+    - **Example**: `[Cat=Contract;Sub=WarrantyHabitability]`
+    - **Usage**: Enables filtering, sorting, and grouping of related claims
+
+    ## 4. Title Format
+
+    - **Components**:
+        - Primary claim description
+        - Statutory reference in parentheses (when applicable)
+        - No trailing punctuation
+    - **Purpose**: Provides clear description of claim
+    - **Example**: `Violation of Fla. Stat. §83.50 – Landlord's Address Disclosure`
+    - **Usage**: Communicates claim substance in legal documents and correspondence
+
+    ## 5. Defendants Attribution
+
+    - **Format**: List of all applicable defendants for each specific claim
+    - **Purpose**: Explicitly connects each claim to specific defendants
+    - **Example**: `Luther J. Rollins, Jr. & Mary O. Polk, Zach Steinberger`
+    - **Usage**: Clarifies which parties are responsible for each alleged violation
+
+    ## 6. Naming Conventions
+
+    - **Categories**: Use broad legal domains (Contract, Fraud, Ethics)
+    - **Subcategories**: Use CamelCase with no spaces (SecurityDeposit, GoodFaith)
+    - **Statutory References**: Use standard legal citation format (Fla. Stat. §83.49)
+    - **Usage**: Maintains consistency across all documentation
+
+    ## Practical Applications of This Syntax System
+
+    1. **Court Filings**: Reference specific claims using their nodeIDs (e.g., "As stated in claim C1-S2...")
+    2. **Evidence Organization**: Tag exhibits and evidence with corresponding claim codes
+        - Example: "Exhibit A-3 [Cat=Deposit;Sub=83.49Violation]"
+    1. **Settlement Discussions**: Group claims by category to facilitate negotiation of related issues
+        - Example: "We're prepared to settle all C5 claims (Security Deposit and Personal Property) for $X"
+    1. **Case Management**: Track status and progress of each claim individually
+        - Example: "Claims C3-S1 through C3-S4 require expert testimony"
+    1. **Legal Strategy Development**: Identify patterns of behavior across claim types
+        - Example: Identifying all claims involving Zach Steinberger to build a pattern of negligence
+    1. **Documentation**: Create standardized headers in legal correspondence
+        - Example: "RE: [Cat=FairHousing;Sub=DisabilityAccommodation] Violation"
+    1. **Discovery**: Organize requests for production by claim category
+        - Example: "Please produce all documents related to claims C6-S1 through C6-S6"
+    1. **Client Communication**: Provide clear reference points when discussing case progress
+        - Example: "We've made progress on claim C10-S2 regarding your security deposit"
+
+    This syntax system creates a comprehensive framework that facilitates organized case management, clear communication, and effective legal advocacy throughout the litigation process.

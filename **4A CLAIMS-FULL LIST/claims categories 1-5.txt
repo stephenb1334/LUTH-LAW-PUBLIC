@@ -1,0 +1,227 @@
+{
+  "tableOfContents": [
+    {
+      "category": "C1: Florida Landlord-Tenant Statutory Violations",
+      "subCategories": [
+        {
+          "nodeID": "C1-S1",
+          "tag": "[Cat=FLLT;Sub=LandlordAddress]",
+          "title": "Failure to Disclose Proper Landlord/Address Information",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C1-S2",
+          "tag": "[Cat=FLLT;Sub=SecurityDeposit]",
+          "title": "Improper Handling of Security Deposit (Fla. Stat. §83.49)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C1-S3",
+          "tag": "[Cat=FLLT;Sub=Disclosures]",
+          "title": "Noncompliance with Required Disclosures",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C1-S4",
+          "tag": "[Cat=FLLT;Sub=RentCollection]",
+          "title": "Unclear or Improper Rent Collection Methods",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C1-S5",
+          "tag": "[Cat=FLLT;Sub=AddressDisclosure83.50]",
+          "title": "Violation of Fla. Stat. §83.50 – Landlord's Address Disclosure",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C1-S6",
+          "tag": "[Cat=FLLT;Sub=WaiverRights]",
+          "title": "Attempted Waiver/Circumvention of Tenant Statutory Rights (Fla. Stat. §83.47)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C1-S7",
+          "tag": "[Cat=FLLT;Sub=PersonalPropLiability]",
+          "title": "Invalid "No Liability for Tenant's Property" Clause",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C1-S8",
+          "tag": "[Cat=FLLT;Sub=MaintenanceSafety83.51]",
+          "title": "Violation of Fla. Stat. §83.51 - Failure to Maintain Safe Premises",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C1-S9",
+          "tag": "[Cat=FLLT;Sub=PropertyNotice715.104]",
+          "title": "Specific Violation of Fla. Stat. §715.104 - Failure to Provide Statutory Notice",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        }
+      ]
+    },
+    {
+      "category": "C2: Illegality and Foreign Entity Registration Claims",
+      "subCategories": [
+        {
+          "nodeID": "C2-S1",
+          "tag": "[Cat=ForeignEntity;Sub=605.0902]",
+          "title": "Violation of Fla. Stat. §605.0902 (Unregistered Foreign Entity)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C2-S2",
+          "tag": "[Cat=ForeignEntity;Sub=IllegalityLease]",
+          "title": "Unenforceability Due to Illegal Purpose/Execution",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C2-S3",
+          "tag": "[Cat=ForeignEntity;Sub=Concealment]",
+          "title": "Concealment of Entity Identity",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C2-S4",
+          "tag": "[Cat=ForeignEntity;Sub=TaxEvasion]",
+          "title": "Potential Tax Evasion / Failure to Properly Report Income",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C2-S5",
+          "tag": "[Cat=ForeignEntity;Sub=MultipleShells]",
+          "title": "Corporate Shell Game Using Multiple Assumed Names",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        }
+      ]
+    },
+    {
+      "category": "C3: Contractual and Lease Enforcement Claims",
+      "subCategories": [
+        {
+          "nodeID": "C3-S1",
+          "tag": "[Cat=Contract;Sub=BreachOfLease]",
+          "title": "Breach of Lease / Breach of Contract",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C3-S2",
+          "tag": "[Cat=Contract;Sub=GoodFaith]",
+          "title": "Breach of Implied Covenant of Good Faith and Fair Dealing",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C3-S3",
+          "tag": "[Cat=Contract;Sub=FailureOfConsideration]",
+          "title": "Failure of Consideration / Mutual Mistake",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C3-S4",
+          "tag": "[Cat=Contract;Sub=WarrantyHabitability]",
+          "title": "Breach of Warranty of Habitability / Quiet Enjoyment",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C3-S5",
+          "tag": "[Cat=Contract;Sub=NegligentPrep]",
+          "title": "Lease Preparation Negligence (Address-Fields Error)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C3-S6",
+          "tag": "[Cat=Contract;Sub=EarlyTermFee]",
+          "title": "Early Termination Fee Clause – Potential Exceeding of 2 Months' Rent",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C3-S7",
+          "tag": "[Cat=Contract;Sub=InvalidWaivers]",
+          "title": "Invalid or Void Provisions Attempting to Waive Statutory Protections",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        }
+      ]
+    },
+    {
+      "category": "C4: Fraud, Misrepresentation, and Deceptive Practices",
+      "subCategories": [
+        {
+          "nodeID": "C4-S1",
+          "tag": "[Cat=Fraud;Sub=Inducement]",
+          "title": "Fraud in the Inducement",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C4-S2",
+          "tag": "[Cat=Fraud;Sub=Omission]",
+          "title": "Fraudulent Concealment or Omission",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C4-S3",
+          "tag": "[Cat=Fraud;Sub=MailingDeception]",
+          "title": "Deceptive Mailing/Address Practices",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C4-S4",
+          "tag": "[Cat=Fraud;Sub=FDUTPA]",
+          "title": "Florida Deceptive and Unfair Trade Practices Act (FDUTPA) (Potential)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger", "Compass Florida, LLC"]
+        },
+        {
+          "nodeID": "C4-S5",
+          "tag": "[Cat=Fraud;Sub=UPLOrMisrepAttorney]",
+          "title": "Unauthorized Practice of Law / Misrepresentation of Attorney Status",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk"]
+        },
+        {
+          "nodeID": "C4-S6",
+          "tag": "[Cat=Fraud;Sub=ForcedPhoneCalls]",
+          "title": "Misrepresentation that Phone Calls Were Legally Required",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        }
+      ]
+    },
+    {
+      "category": "C5: Security Deposit and Personal Property Claims",
+      "subCategories": [
+        {
+          "nodeID": "C5-S1",
+          "tag": "[Cat=Deposit;Sub=83.49Violation]",
+          "title": "Violation of Deposit Statute (Fla. Stat. §83.49)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C5-S2",
+          "tag": "[Cat=Deposit;Sub=BadFaithRetention]",
+          "title": "Wrongful or Bad-Faith Retention of Deposit",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises"]
+        },
+        {
+          "nodeID": "C5-S3",
+          "tag": "[Cat=Deposit;Sub=ConversionOrCivilTheft]",
+          "title": "Conversion / Civil Theft (Fla. Stat. §772.11)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C5-S4",
+          "tag": "[Cat=PersonalProp;Sub=715.104Violation]",
+          "title": "Failure to Comply with Fla. Stat. §715.104 (Disposition of Abandoned Property)",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Amarlu Enterprises", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C5-S5",
+          "tag": "[Cat=PersonalProp;Sub=Interference]",
+          "title": "Interference with Tenant's Right to Retrieve Personal Property",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        },
+        {
+          "nodeID": "C5-S6",
+          "tag": "[Cat=PersonalProp;Sub=ForcedAbandonment]",
+          "title": "Willful Communication Cutoff & Attempted Forced Abandonment",
+          "defendants": ["Luther J. Rollins, Jr. & Mary O. Polk", "Zach Steinberger"]
+        }
+      ]
+    }
+  ]
+}
